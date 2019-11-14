@@ -14,5 +14,5 @@ author = "admin"
 
 [design.background]
 # Background color.
-# color = ""
+color = "GhostWhite"
 +++

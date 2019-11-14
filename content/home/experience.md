@@ -14,7 +14,7 @@ date_format = "Jan 2006"
 
 [design.background]
 # Background color.
-color = "Honeydew"
+color = "Azure"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.

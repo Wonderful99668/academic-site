@@ -54,7 +54,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "MistyRose"
+  color = "Seashell"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
