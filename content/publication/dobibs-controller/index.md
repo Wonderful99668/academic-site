@@ -38,12 +38,12 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-links:
-- name: Paper
-  url: DOBIBS.pdf
+
 
 #url_pdf: 
 url_code: https://github.com/ANCL/UAV_DOBIBS
+url_pdf: publication/dobibs-controller/DOBIBS.pdf
+
 links:
 - name: ANCL Lab
   url: https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab

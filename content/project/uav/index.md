@@ -2,14 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "UAV_DOBIBS"
-summary: "PX4 and SITL/jMAVSim simulation for the IFAC 2020 conference paper submission  'Disturbance Observer-Based Integral Backstepping Controller for Multirotor UAVs'"
+summary: "PX4-based implementation of Disturbance Observer-Based Integral Backstepping Controller 
+for Multirotor UAVs"
 authors: ["admin"]
 tags: ["Robotics", "Drones"]
 categories: []
 date: 2019-11-14T20:04:02+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/ANCL/UAV_DOBIBS
+external_link: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: https://github.com/ANCL/UAV_DOBIBS
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,3 +40,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+[PX4](https://px4.io/)-based implementation and SITL/jMAVSim simulation for the [IFAC 2020 Conference](https://www.ifac2020.org/) paper submission  'Disturbance Observer-Based Integral Backstepping Controller for Multirotor UAVs.

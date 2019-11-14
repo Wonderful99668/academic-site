@@ -4,7 +4,7 @@
 title: "Fetch What We Want(FIIIW)"
 summary: ""
 authors: ["admin"]
-tags: ["Robotics"]
+tags: ["Robotics", "Computer Vision"]
 categories: []
 date: 2019-11-14T17:11:32+08:00
 
@@ -40,6 +40,6 @@ url_video: https://www.youtube.com/watch?v=WOYQ2A6ZiRU&feature=youtu.be
 slides: ""
 ---
 
-**F**etch **W**hat **W**e **W**ant(**FIIIW**) is an intelligent Feeding Robot designed specifically for those people who cannot eat or drink independently. 
+[**F**etch **W**hat **W**e **W**ant(**FIIIW**)](https://github.com/Wonderful99668/Fetch-What-We-Want) is an intelligent Feeding Robot designed specifically for those people who cannot eat or drink independently. 
 
 In this project, I integrated Speech recognition, Face detection, Object detection and Human Computer Interaction algorithms into one single Robotic Arm, which endows the product multiple merits: **easy to use**, **accurate** while **economical.** Robotic Arm can extract key words from user's instruction and fetch corresponding foods(e.g. breads, waters) from table, fed to the patients' mouth. The whole process is done automatically, user's just need to talk to robot to make instructions.
