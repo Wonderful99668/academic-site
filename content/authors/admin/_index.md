@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhijun Xue(Daniel)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Building awesome things with Passion & Love
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Huazhong University of Science & Technology
+  url: "http://english.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, Robotics and Web Development
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Robotics
+- Music
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BE in Electronic & Computer Engineering
+    institution: Huazhong University of Science & Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +38,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:xzj0319@gmail.com' 
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Wonderful99668
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/xue_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,10 +60,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Undergraduate researcher at [ANCL Lab](https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab)
+- Research assistant at [mc lab](http://www.vlrlab.net/)
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhijun Xue is a senior student major in Electronic and Information Engineering at [HUST](http://english.hust.edu.cn/).  He worked as a undergraduate researcher at [ANCL Lab, University of Alberta](https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab) with concentration on UAVs. He is now a research assistant at [Vision & Learning Representation Group](http://www.vlrlab.net/) under School of EIC, co-advised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/) and [Prof. Wenyu Liu](https://scholar.google.com.hk/citations?user=hVjCC4AAAAAJ&hl=en) with concentration on Scene Text Detection and Object Detection.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research interests include Computer Vision and Robotics. Specifically, Zhijun is fascinated with leveraging Computer Vision and Reinforcement Learning Techniques to better robotics perception and navigation.In his free time, he plays guitar for fun : )
