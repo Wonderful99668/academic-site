@@ -27,14 +27,15 @@ color = "Azure"
   company_url = "https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab"
   location = "Canada"
   date_start = "2019-07-01"
-  date_end = "2019-10-01"
-  description = """
+  date_end = "2019-10-10"
+  description = """**Focused on Computer Vision, UAV Control and Navigation**
+
   Responsibilities include:
 
   * Conducted line detection on Nvidia Jetson TX 2 platform and used MAVLink protocol to communicate between hardware
-  * Implemented IBVS-controller on open source PX4 Firmware
+  * -	Implemented Integral Backstepping Controller on open source PX4 Firmware and modified PX4 to support Vicon data for in-door navigation
   * Conducted Software in the Loop (SITL) quadrotor simulation on jMAVSim and Gazebo platform
-  * Designed course project for graduate course "Nonlinear Control"
+  * Designed Gazebo-based course project for the graduate course "Nonlinear Control"
   """
 
 [[experience]]
@@ -44,12 +45,13 @@ color = "Azure"
   location = "HUST, Wuhan"
   date_start = "2018-12-01"
   date_end = ""
-  description = """Focus on scene text detection and recognition.
+  description = """**Focused on scene text detection and recognition.**
+
   Responsibilities include:
 
-  * Proposed an one-stage CNN-based network for handwritten Chinese character recognition
+  * Proposed a Multi-Attention CNN network for Handwritten Chinese character recognition, network can adaptively integrate information from different regions to do final prediction
   * Designed algorithm for generating large scale Chinese Character synthetic text images dataset (80k images)
-  * Co-implemented scene text detection&recognition tool box for lab
+  * Implemented PyTorch-based Scene text detection & recognition toolbox for the lab
   """
 
   [[experience]]
@@ -59,12 +61,13 @@ color = "Azure"
   location = "Imperial College London"
   date_start = "2018-07-01"
   date_end = "2018-09-01"
-  description = """Building an intelligent medical robot
+  description = """**Built an intelligent medical robot**
+
   Responsibilities include:
 
-  * Design overall robotic software framework. Integrated speech recognition, image recognition and grabbing algorithms into single robotic arm.
+  * Designed overall robotic software framework. Integrated speech recognition, image recognition and grabbing algorithms into single robotic arm.
   * Team Leader. Led 6 teammates won the “First Runner-up” prize in final competition at Hamlyn Centre.
-  * Designed sophisticated business model for the product.
+  * Devised sophisticated business model for the product.
   """
 
 [[experience]]
@@ -74,7 +77,9 @@ color = "Azure"
   location = "HUST, Wuhan"
   date_start = "2017-10-01"
   date_end = "2019-03-01"
-  description = """
+  description = """**Focused on Web Development**
+
+
   Responsibilities include:
 
   * Co-developed and maintained WeChat mini program “Helping HUST”, “Link-HUST” for students’ convenience
