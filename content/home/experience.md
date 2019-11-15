@@ -22,7 +22,7 @@ color = "Azure"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergraduate researcher founded by China Scholarship Council"
+  title = "Undergraduate researcher funded by China Scholarship Council"
   company = "ANCL lab at University of Alberta"
   company_url = "https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab"
   location = "Canada"
