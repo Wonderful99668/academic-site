@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BE in Electronic & Computer Engineering
+  - course: BE in Electronic and Information Engineering
     institution: Huazhong University of Science & Technology
     year: 2016
 
