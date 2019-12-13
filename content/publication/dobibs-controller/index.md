@@ -42,7 +42,8 @@ featured: true
 
 #url_pdf: 
 url_code: https://github.com/ANCL/UAV_DOBIBS
-url_pdf: publication/dobibs-controller/DOBIBS.pdf
+url_pdf: ""
+# publication/dobibs-controller/DOBIBS.pdf
 
 links:
 - name: ANCL Lab
