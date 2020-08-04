@@ -16,8 +16,8 @@ publishDate: 2019-11-14T16:16:52+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Federation of Automatic Control Conference*
-publication_short: In **IFAC-2020 Conference**
+publication: In *The 2020 International Conference on Unmanned Aircraft Systems*
+publication_short: In **ICUAS-2020 Conference**
 
 abstract: "In this paper, we propose an integral backstepping nonlinear controller coupled with a disturbance observer for motion control of a multirotor unmanned vehicles(UAVs). The controller is developed considering the full-dynamic of the multirotor and without any approximation. The proposed controller is easy to implement asymptotic stability of the tracking error is proved in presence of constant disturbance. The performance of the proposed disturbance observer-based controller is evaluated by numerical simulations on Matlab/Simulink and jMAVsim, Gazebo simulator in the presence of external disturbances and modeling errors. The result suggests a significant improvement in the tracking error when both the integral action and the disturbance observer are employed in the closed-loop system.
 

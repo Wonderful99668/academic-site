@@ -14,19 +14,22 @@ role: Building awesome things with Passion & Love
 
 # Organizations/Affiliations
 organizations:
-- name: Huazhong University of Science & Technology
-  url: "http://english.hust.edu.cn/"
+- name: UC San Diego CSE Dept.
+  url: "https://cse.ucsd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision, Robotics and Web Development
 
 interests:
+- Web Development
+- Distributed System
 - Computer Vision
-- Robotics
-- Music
 
 education:
   courses:
+  - course: Master of Science in Computer Science
+    institution: UC San Diego
+    year: 2020
   - course: BE in Electronic and Information Engineering
     institution: Huazhong University of Science & Technology
     year: 2016
@@ -36,9 +39,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:xzj0319@gmail.com' 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhijun-xue-480b62148/
+
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -47,16 +51,20 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Wonderful99668
+  link: https://github.com/wonderfulxue
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
   link: files/xue_cv.pdf
 
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:xzj0319@gmail.com' 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -64,6 +72,6 @@ user_groups:
 - Research assistant at [mc lab](http://www.vlrlab.net/)
 ---
 
-Zhijun Xue is a senior student major in Electronic and Information Engineering at [HUST](http://english.hust.edu.cn/). This summer, he worked as a undergraduate researcher at [ANCL Lab, University of Alberta](https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab) with concentration on UAVs. He is now a research assistant at [Vision & Learning Representation Group](http://www.vlrlab.net/) under School of EIC, co-advised by [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/) and [Prof. Wenyu Liu](https://scholar.google.com.hk/citations?user=hVjCC4AAAAAJ&hl=en) with concentration on Scene Text Detection and Object Detection.
+Hi, I am an incoming Master of Computer Science student at [UC San Diego](https://cse.ucsd.edu/). Currently, I am a Software Engineer Intern at [Intel NSG Data Science Group](https://www.intel.com/content/www/us/en/homepage.html). Recently, I graduated from [Huazhong Univsersity of Science \& Technology](http://english.hust.edu.cn/) with B.E. Degree in Electronic and Information Engineering. Previously, I was fortunate to work with [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/) and [Prof. Wenyu Liu](https://scholar.google.com.hk/citations?user=hVjCC4AAAAAJ&hl=en) with concentration on Scene Text Detection and Object Detection at [Vision & Learning Representation Group](http://www.vlrlab.net/). 
 
-His research interests include Computer Vision and Robotics. Specifically, Zhijun is fascinated with leveraging Computer Vision and Reinforcement Learning Techniques to better robotics perception and navigation.In his free time, he plays guitar for fun : )
+I have interests and skills in Web Development, Distributed system, Machine Learning, Computer Vision and Robotics. During my free time, I love to play fooseball and guitar.

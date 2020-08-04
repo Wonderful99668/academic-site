@@ -22,6 +22,23 @@ color = "Azure"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Engineer Intern"
+  company = "Intel NSG Data Science Group"
+  company_url = "https://www.intel.com/content/www/us/en/homepage.html"
+  location = "Dalian DMTM"
+  date_start = "2020-05-11"
+  date_end = ""
+  description = """**Full Stack Developer**
+
+  Responsibilities include:
+
+  * Cooperated with automation engineers, process engineers to develop Intel web-based Data Analysis platform for PE and PI
+  * Designed and implemented a large scale lot & wafer issue-tracking system using Angular, ECharts and Django
+  * Developed Redis-based caching service to enhance data fetching efficiency with easy-to-use api to accommodate all group apps
+  * Identify opportunities to develop automate system/tool/script with innovative solutions to meet process engineers’ needs
+  """
+
+[[experience]]
   title = "Undergraduate researcher funded by China Scholarship Council"
   company = "ANCL lab at University of Alberta"
   company_url = "https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab"
@@ -65,7 +82,7 @@ color = "Azure"
 
   Responsibilities include:
 
-  * Designed overall robotic software framework. Integrated speech recognition, image recognition and grabbing algorithms into single robotic arm.
+  * Core programmer. Designed overall robotic software framework. Integrated speech recognition, image recognition and grabbing algorithms into single robotic arm.
   * Team Leader. Led 6 teammates won the “First Runner-up” prize in final competition at Hamlyn Centre.
   * Devised sophisticated business model for the product.
   """
