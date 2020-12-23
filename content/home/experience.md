@@ -23,11 +23,38 @@ color = "Azure"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Software Engineer Intern"
+  company = "Microsoft"
+  company_url = "https://www.microsoft.com/"
+  location = "Suzhou, Jiangsu"
+  date_start = "2020-09-07"
+  date_end = "2020-12-30"
+  description = """**Focus on Microsoft `Teams` Development**
+
+  """
+
+[[experience]]
+  title = "Full Stack Engineer Intern"
+  company = "eBay-StubHub Inc"
+  company_url = "https://www.stubhub.com/"
+  location = "Shanghai"
+  date_start = "2020-09-07"
+  date_end = "2020-12-30"
+  description = """**Full Stack Developer**
+
+  Responsibilities include:
+
+  * Implemented 2FA authentication system infrastructure, and utilized Concourse and GCP CI/CD techniques for automatic deployment and unit testing
+  * Refactored the website Shopping Cart module using React & Redux, with better UI design and more intuitive filtering options
+  * Build StubHub Internal `Trust & Safety` platform's frontend and backend with React, Spring
+  """
+
+[[experience]]
+  title = "Software Engineer Intern"
   company = "Intel NSG Data Science Group"
   company_url = "https://www.intel.com/content/www/us/en/homepage.html"
   location = "Dalian DMTM"
   date_start = "2020-05-11"
-  date_end = ""
+  date_end = "2020-09-07"
   description = """**Full Stack Developer**
 
   Responsibilities include:
@@ -39,7 +66,7 @@ color = "Azure"
   """
 
 [[experience]]
-  title = "Undergraduate researcher funded by China Scholarship Council"
+  title = "Research Assistant"
   company = "ANCL lab at University of Alberta"
   company_url = "https://www.ualberta.ca/engineering/research/groups/applied-nonlinear-controls-lab"
   location = "Canada"
@@ -95,7 +122,6 @@ color = "Azure"
   date_start = "2017-10-01"
   date_end = "2019-03-01"
   description = """**Focused on Web Development**
-
 
   Responsibilities include:
 

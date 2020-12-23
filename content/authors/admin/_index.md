@@ -14,11 +14,11 @@ role: Building awesome things with Passion & Love
 
 # Organizations/Affiliations
 organizations:
-- name: UC San Diego CSE Dept.
-  url: "https://cse.ucsd.edu/"
+- name: Microsoft MSAI.
+  url: "https://www.linkedin.com/company/ms-search-assistant-intelligence/?originalSubdomain=cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Robotics and Web Development
+bio: I am a software development enthusiasm!
 
 interests:
 - Web Development
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Master of Science in Computer Science
-    institution: UC San Diego
-    year: 2020
+  # - course: Master of Science in Computer Science
+  #   institution: UC San Diego
+  #   year: 2020
   - course: BE in Electronic and Information Engineering
     institution: Huazhong University of Science & Technology
     year: 2016
@@ -72,6 +72,9 @@ user_groups:
 - Research assistant at [mc lab](http://www.vlrlab.net/)
 ---
 
-Hi, I am an incoming Master of Computer Science student at [UC San Diego](https://cse.ucsd.edu/). Currently, I am a Software Engineer Intern at [Intel NSG Data Science Group](https://www.intel.com/content/www/us/en/homepage.html). Recently, I graduated with honor from [Huazhong Univsersity of Science \& Technology](http://english.hust.edu.cn/) with B.E. Degree in Electronic and Information Engineering. Previously, I was fortunate to work with [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/) and [Prof. Wenyu Liu](https://scholar.google.com.hk/citations?user=hVjCC4AAAAAJ&hl=en) with concentration on Scene Text Detection and Object Detection at [Vision & Learning Representation Group](http://www.vlrlab.net/). 
+Hi, I am currently a Software Engineer Intern at [Microsoft MSAI Group](https://www.linkedin.com/company/ms-search-assistant-intelligence/?originalSubdomain=cn). Prior to that, I also worked as SDE intern at
+[Intel NSG Data Science Group](https://www.intel.com/content/www/us/en/homepage.html) and [eBay-StubHub Inc](https://www.stubhub.com/). I am proficient in `JavaScript`, `TypeScript`, `Python`, `Kotlin`, and comfortable with `Java` and `C++`.
 
-I have interests and skills in Web Development, Distributed system, Machine Learning, Computer Vision and Robotics. During my free time, I love to play fooseball and guitar.
+I graduated with honor from [Huazhong Univsersity of Science \& Technology](http://english.hust.edu.cn/) with B.E. Degree in Electronic and Information Engineering (minor in Computer Science). Previously, I was fortunate to work with [Prof. Xiang Bai](http://cloud.eic.hust.edu.cn:8071/~xbai/) and [Prof. Wenyu Liu](https://scholar.google.com.hk/citations?user=hVjCC4AAAAAJ&hl=en) with concentration on Scene Text Detection and Object Detection at [Vision & Learning Representation Group](http://www.vlrlab.net/). 
+
+I have interests and skills in full stack web development, Distributed system, Machine Learning, Computer Vision and Robotics. During my free time, I love to play fooseball and guitar.
